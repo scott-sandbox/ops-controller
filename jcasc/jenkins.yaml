@@ -28,3 +28,9 @@ unclassified:
               repository: "pipeline-library"
   headerLabel:
     text: "${GITHUB_APP}-bundle-v4"
+  hibernationConfiguration:
+    activities:
+    - "build"
+    - "web"
+    enabled: true
+    gracePeriod: 3600
