@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "5"
+version: "6"
 id: "scott-sandbox-ops-controller"
 description: "CloudBees CI configuration bundle for the scott-sandbox ops-controller Controller - Meh"
 parent: "base"
