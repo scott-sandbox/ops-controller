@@ -10,7 +10,7 @@ jenkins:
         value: "${GITHUB_USER}"
       - key: "BUNDLE_ID"
         value: "${CASC_BUNDLE_ID}"
-  systemMessage: 'Jenkins configured using CloudBees CI CasC with controller overrides X'
+  systemMessage: 'Jenkins configured using CloudBees CI CasC with controller overrides Y'
 notificationConfiguration:
   enabled: true
   router: "operationsCenter"
